@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm Ujjwal Sharma 👋</h1>
+<h1 align="center">Hola! Soy Omar Carrillo 👋</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=UjjwalSharma01&color=blue" alt="Profile Views" />
@@ -6,72 +6,49 @@
 
 <blockquote style="font-size: 24px;">
   <p align="center">
-    <strong>"Empowering the Future: Innovating for a Better World"</strong>
+    <strong>“La ciencia de hoy es la tecnología del mañana”</strong>
   </p>
 </blockquote>
+Bienvenidos a mi perfil de Github! Soy un estudiante recien egresado del bootcamp de Henry, interesado en crear aplicaciones que generen un impacto positivo a la comunidad. Creo que la tecnología y la innovacion pueden ayudar a mejorar nuestra sociedad.
 
-Welcome to my GitHub profile! I'm a passionate and enthusiastic student with a drive to create real-life, human-centric projects that make a positive impact. I believe in the power of innovation and technology to shape a better future.
+### 🚀 Experiencia
 
-### 🚀 Expertise
+- Lenguajes de programación: Javascript
+- Desarrollo web: React, Redux, NodeJS, Express, Sequelize, PostgreSQL
+- Habilidades blandas: Comunicación y trabajo en equipo, resolución de problemas y liderazgo de proyectos.
 
-- Programming Languages: C++, C, Python
-- Web Development: Currently learning and exploring
-- Soft Skills: Excellent communication, collaboration, and public speaking
+### 💡 Intereses
 
-### 💡 Interests
+Estoy interesado en:
 
-I'm deeply interested in:
-
-- Building real-life projects that solve meaningful problems.
-- Exploring the fascinating field of AI and experimenting with different datasets and models.
+- Desarrollar aplicaciones que beneficien a la sociedad
+- Contribuir al desarrollo de la tecnología 
+- Explorar el mundo de la inteliencia artificial 
 
 ### 📚 Hobbies
 
-Apart from coding, I enjoy:
+Además de programar, me gusta:
 
-- Writing and expressing my thoughts through words.
-- Reading books and expanding my knowledge.
+- Leer, conversar y visualizar proyectos de arquitectura.
+- Mantenerme al día con los últimos avances tecnológicos.
 
-### 🌱 Future Goals
+### 🌱 Metas a futuro
 
-My ultimate goal is to build a startup that positively impacts the lives of millions. I'm excited about the possibilities that lie ahead and eager to learn and grow on this journey.
+Mi objetivo a largo plazo es crear aplicaciones que tengan un impacto significativo en la comunidad donde vivo, y que estas se puedan aplicar a una escala global.
 
-### Let's Connect
+### Pongamonos en contacto
 
 <p align="center">
-  You can find me on:
+  Puedes encontrarme en:
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/ujjwalsharma01">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/sharma_ujjwal01">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" />
-  </a>
 </p>
 
-### Other Profiles
-
-<p align="center">
-  <a href="https://www.codechef.com/users/ujjwalsharma01">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/ujjwalsharma01">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" />
-  </a>&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/sharma_ujjwal">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.leetcode.com/sharma_ujjwal">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" />
-  </a>&nbsp;&nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/sharma_ujjwal/profile">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40"/>
-  </a>
-</p>
-
-Feel free to reach out to me for collaborations, discussions, or just to say hello! 😄
+Puedes contactarme para colaboraciones, discutir o simplemente saludar! 😄
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ujjwalsharma01&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="GitHub Stats" />
@@ -93,4 +70,3 @@ Feel free to reach out to me for collaborations, discussions, or just to say hel
 ------
 
 Credit: [UjjwalSharma01](https://github.com/UjjwalSharma01)
-Last Edited on:19/07/2023
