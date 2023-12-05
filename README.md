@@ -42,14 +42,21 @@ Mi objetivo a largo plazo es crear aplicaciones que tengan un impacto significat
   Puedes encontrarme en:
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ruben-rodriguez-carrillo">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" />
+LinkedIn : 
+<a href="https://www.linkedin.com/in/ruben-rodriguez-carrillo">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" /> Omar Carrillo
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/ujjwalsharma01">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" />
-  </a>&nbsp;&nbsp;&nbsp;
-</p>
+
+Mail:
+omarcarrillo1121@gmail.com
+//<p align="center">
+//  <a href="https://www.linkedin.com/in/ruben-rodriguez-carrillo">
+//    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" />
+//  </a>&nbsp;&nbsp;&nbsp;
+//  <a href="https://linkedin.com/in/ujjwalsharma01">
+//    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" />
+//  </a>&nbsp;&nbsp;&nbsp;
+//</p>
 
 Puedes contactarme para colaboraciones, discutir o simplemente saludar! 😄
 
