@@ -1,9 +1,5 @@
 <h1 align="center">Hola! Soy Ruben Rodriguez 👋</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=UjjwalSharma01&color=blue" alt="Profile Views" />
-</p>
-
 <blockquote style="font-size: 24px;">
   <p align="center">
     <strong>“La ciencia de hoy es la tecnología del mañana”</strong>
