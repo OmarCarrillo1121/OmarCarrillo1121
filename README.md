@@ -1,4 +1,4 @@
-<h1 align="center">Hola! Soy Ruben Rodriguez 👋</h1>
+<h1 align="center">Hola! Soy Omar Rodriguez 👋</h1>
 
 <blockquote style="font-size: 24px;">
   <p align="center">
