@@ -40,7 +40,7 @@ Mi objetivo a largo plazo es crear aplicaciones que tengan un impacto significat
 
 LinkedIn : 
 <a href="https://www.linkedin.com/in/ruben-rodriguez-carrillo">
-    Omar Carrillo
+    Omar Rodriguez Carrillo
   </a>&nbsp;&nbsp;&nbsp;
 
 Mail:
